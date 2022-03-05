@@ -1,0 +1,53 @@
+body {
+  background-color: #e8356f;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 90vh;
+}
+.form-group {
+  background-color: #323232;
+  border-radius: 10px;
+  box-shadow: 5px;
+  box-shadow: 1px 2px 5px rgba(0, 0.2, 0.2, 5);
+}
+span {
+  border: 0;
+  border-bottom: 2px solid #e82571;
+}
+.contact {
+  float: left;
+  margin-left: 20px;
+  padding-top: 30px;
+  color: #e82571;
+}
+.signup {
+  float: left;
+  width: 350px;
+  height: 280px;
+  text-align: center;
+}
+.text {
+  width: 250px;
+  margin: 5px;
+  border: 0;
+  outline: none;
+  border-bottom: 1px solid gray;
+  background-color: #323232;
+  color: white;
+}
+.form {
+  padding-top: 50px;
+}
+.button {
+  margin-left: 20px;
+}
+.btn {
+  padding-top: 5px;
+  background-color: #323232;
+  border: 0px;
+  color: #e82571;
+}
